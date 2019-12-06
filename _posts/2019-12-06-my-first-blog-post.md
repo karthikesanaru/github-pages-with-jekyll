@@ -1,2 +1,4 @@
-# How to render HTML in React
-2019-Nov-06
+---
+title: "How to render HTML in React"
+date: 2019-12-06
+---
